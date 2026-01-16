@@ -1,0 +1,5 @@
+1) Total Sales proxy (sum of discounted_price_num) is 4578580.43.
+2) Top category is Electronics contributing 68.5% of total sales proxy.
+3) Second category is Home&Kitchen contributing 22.8% of total sales proxy.
+4) Top segment is Electronics / HomeTheater,TV&Video contributing 36.8% of total sales proxy.
+5) Weighted average rating (weighted by rating_count_num) is 4.17 and average discount_pct_computed is 47.7%.
